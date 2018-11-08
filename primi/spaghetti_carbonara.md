@@ -1,0 +1,8 @@
+"1144588<br />"   
+"Spaghetti alla carbonara:<br />"   
+"-Spaghetti<br />"   
+"-Guanciale<br />"   
+"-Uova (1 x persona)<br />"   
+"-Sale<br />"   
+"-Pepe<br />"   
+"-Noce moscata<br />"   

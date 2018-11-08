@@ -5,3 +5,4 @@
 "[Capricciosa](pizze/capricciosa.md)<br />"  
 "<br />Primi<br />"  
 "[Bucatini alla matriciana](primi/bucatini_matriciana.md)<br />"  
+"[Spaghetti alla carbonara](primi/spaghetti_carbonara.md)<br />"  
